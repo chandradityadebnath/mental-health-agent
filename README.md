@@ -1,4 +1,4 @@
-#🌿 Mental Health Agent System — Google Kaggle Capstone Project
+## 🌿 Mental Health Agent System — Google Kaggle Capstone Project
 
 ## 🧠 Overview
 
