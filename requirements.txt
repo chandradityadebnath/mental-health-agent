@@ -1,5 +1,0 @@
-google-generativeai
-pandas
-numpy
-matplotlib
-textblob
