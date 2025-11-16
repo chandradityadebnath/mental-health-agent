@@ -1,5 +1,6 @@
-🌿 Mental Health Agent System — Google Kaggle Capstone Project
+Mental Health Agent System — Google Kaggle Capstone Project
 🧠 Overview:
+
 This project is a multi-agent mental health assistance system built as part of the Google Advanced Data Analytics Capstone (Kaggle).
 
 It uses Python, asyncio, and a parallel multi-agent pipeline to analyze:
