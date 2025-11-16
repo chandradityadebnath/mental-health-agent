@@ -1,35 +1,81 @@
-Mental Health Agent System — Google Kaggle Capstone Project
-🧠 Overview:
+#🌿 Mental Health Agent System — Google Kaggle Capstone Project
 
-This project is a multi-agent mental health assistance system built as part of the Google Advanced Data Analytics Capstone (Kaggle).
+## 🧠 Overview
 
-It uses Python, asyncio, and a parallel multi-agent pipeline to analyze:
-1. Sentiment
-2.Emotion
-3.Safety signals
-4.User intent
-5.Response generation
+This project is a **multi-agent mental health assistance system** built as part of the **Google Advanced Data Analytics Capstone (Kaggle)**.
+It uses **Python**, **asyncio**, and a **parallel multi-agent pipeline** to analyze:
 
-The system simulates how an intelligent assistant could provide safe, empathetic, and structured mental health support.
+* Sentiment
+* Emotion
+* Safety signals
+* User intent
+* Response generation
 
-🚀 Key Features :
+The system simulates how an intelligent assistant could provide **safe, empathetic, and structured mental health support**.
 
-1. LLM-powered mental health assistant
+---
 
-2. Parallel agent system (sentiment, emotion, safety scanning run together)
+## 🚀 Key Features
 
-3. Async processing with asyncio
+* **LLM-powered mental health assistant**
+* **Parallel agent system** (sentiment, emotion, safety scanning run together)
+* Async processing with `asyncio`
+* Modular and expandable pipeline
+* Clean project architecture ready for deployment
+* Fully documented code in `src/main.py`
 
-4. Modular and expandable pipeline
+---
 
-5. Clean project architecture ready for deployment
+## 📁 Project Structure
 
-Fully documented code in src/main.py
-## Structure
-- src/main.py (full notebook code)
-- tests/
-- docs/
-- data/
-- models/
-- scripts/
-- configs/
+```
+src/               → Main project code (all logic)  
+tests/             → Unit tests  
+docs/              → Documentation  
+notebooks/         → Original Kaggle notebook  
+data/              → Raw/processed data (placeholders)  
+models/            → Saved model outputs  
+configs/           → Configuration files  
+scripts/           → Run scripts  
+README.md          → Project overview
+```
+
+---
+
+## 🛠️ Technologies Used
+
+* Python 3
+* Asyncio
+* Natural Language Processing
+* Multi-agent architecture
+* Jupyter Notebook
+* Kaggle environment
+
+---
+
+## 📌 How to Run
+
+```
+python3 src/main.py
+```
+
+---
+
+## 🎯 Goal of the Project
+
+To demonstrate understanding of:
+
+* Real-world AI system design
+* NLP-driven mental health analysis
+* Model safety and ethical constraints
+* Pipeline architecture
+* Data analysis and agent design
+
+---
+
+## 📜 Disclaimer
+
+This project is **for educational and capstone purposes only** and **not intended for real medical use**.
+
+---
+
